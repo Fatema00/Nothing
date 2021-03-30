@@ -1,10 +1,8 @@
 {
   "Data": [
-    {
       "Rack": 1,
       "Row": 1,
       "Bin": 5,
       "Quantity": 6
-    }
   ]
 }
