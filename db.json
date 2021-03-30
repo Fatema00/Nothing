@@ -1,21 +1,18 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
+
   "Data": [
     {
       "Rack": 1,
       "Row": 1,
       "Bin" : 5, 
       "Quantity" : 6 
-    } 
-  ],
-  
-  "profile": {
-    "name": "typicode"
-  }
+    },
+        {
+      "Rack": 2,
+      "Row": 4,
+      "Bin" : 1, 
+      "Quantity" : 7 
+    }
+    ]
+
 }
