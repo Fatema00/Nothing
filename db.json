@@ -8,7 +8,15 @@
   ],
   "Data": [
     {
+      "id": 1; 
       "Rack": 1,
+      "Row": 1,
+      "Bin" : 5, 
+      "Quantity" : 6 
+    }; 
+        {
+    "id": 2; 
+      "Rack": 2,
       "Row": 1,
       "Bin" : 5, 
       "Quantity" : 6 
