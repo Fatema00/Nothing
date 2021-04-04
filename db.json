@@ -16,7 +16,31 @@
       "author": "typicode"
     }
   ],
+  
+  "Data": [
+    {
+      "id": 1,
+      "Rack": 2,
+      "Row": 1,
+      "Bin" : 5, 
+      "Quantity" : 6 
+    }, 
+        {
+       "id": 2,
+      "Rack": 1,
+      "Row": 1,
+      "Bin" : 7, 
+      "Quantity" : 6 
+    }, 
+        {
+       "id": 3,
+      "Rack": 5,
+      "Row": 1,
+      "Bin" : 7, 
+      "Quantity" : 4 
+    }
 
+  ],
   
   "profile": {
     "name": "typicode"
