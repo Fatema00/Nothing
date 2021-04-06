@@ -20,7 +20,7 @@
   "Data": [
     {
       "id": 1,
-      "Rack": 1,
+      "Rack": 2,
       "Row": 1,
       "Bin" : 5, 
       "Quantity" : 6 
