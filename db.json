@@ -21,9 +21,9 @@
     {
       "id": 1,
       "Rack": 1,
-      "Row": 1,
-      "Bin" : 5, 
-      "Quantity" : 6 
+      "Row": 2,
+      "Bin" : 4, 
+      "Quantity" : 2 
     }, 
         {
        "id": 2,
